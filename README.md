@@ -1,4 +1,4 @@
-﻿# Karting League
+# Karting League
 
 A private web app for running a karting group's racing league â€” groups, drivers,
 teams, race sessions with manual qualifying, and a full championship with
@@ -235,4 +235,8 @@ No screenshots are committed to this repository. The UI is a dark,
 high-contrast motorsport theme: near-black surfaces, white type, racing red
 accent, carbon fibre texture, restrained corner radii, responsive down to
 mobile.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
 
