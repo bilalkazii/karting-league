@@ -143,7 +143,7 @@ member lists, and season race lists are all computed at read time.
 Requires **Node.js 20+**.
 
 ```bash
-git clone https://github.com/<owner>/karting-league.git
+git clone https://github.com/bilalkazii/karting-league.git
 cd karting-league
 npm install
 ```
